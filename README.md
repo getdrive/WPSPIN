@@ -9,4 +9,15 @@
 Теперь нет необходимости вручную менять режим адаптера после завершения работы скрипта. 
 Весь остальной функционал остался без изменения.
 
-WPSPIN.sh for KaliLinux 2
+
+# Google Translate
+
+October 27, 2014, a man of the script was published under the name hacker404, allowing the testing of WIFI routers enabled WPS. The script includes built-in generator and database default WPS-Pin for some models of wireless routers.
+The script worked perfectly and showed good results before the release of Kali Linux Release 2.
+With the new release of Kali, the script stopped working because It changes the output format of the updated airmon-ng ...
+
+It's time to breathe new life into the script ;-)
+
+Make changes to the code to work correctly on Kali Linux 2. Added automatic switching of the wireless adapter from the Monitor mode in Managed Mode and start the network-manager by pressing EXIT, Restart and pereryvaniem Reaver works by pressing CTRL + C.
+Now there is no need to manually change the adapter mode after the completion of the script.
+All other functionality remains unchanged.
