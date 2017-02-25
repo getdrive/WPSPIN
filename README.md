@@ -18,6 +18,6 @@ With the new release of Kali, the script stopped working because It changes the 
 
 It's time to breathe new life into the script ;-)
 
-Make changes to the code to work correctly on Kali Linux 2. Added automatic switching of the wireless adapter from the Monitor mode in Managed Mode and start the network-manager by pressing EXIT, Restart and pereryvaniem Reaver works by pressing CTRL + C.
+Make changes to the code to work correctly on Kali Linux 2. Added automatic switching of the wireless adapter from the Monitor mode in Managed Mode and start the network-manager by pressing EXIT, Restart and interrupt Reaver works by pressing CTRL + C.
 Now there is no need to manually change the adapter mode after the completion of the script.
 All other functionality remains unchanged.
