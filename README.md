@@ -8,6 +8,8 @@
 Внес изменения в код для корректной работы в Kali Linux 2. Добавил автоматическое переключение беспроводного адаптера из режима Monitor в режим Managed и запуск службы network-manager при нажатии EXIT, Restart и прерыванием работы Reaver по нажатии CTRL+C.
 Теперь нет необходимости вручную менять режим адаптера после завершения работы скрипта. 
 Весь остальной функционал остался без изменений.
+        
+        git clone https://github.com/getdrive/WPSPIN.sh && cd WPSPIN.sh && chmod +x WPSPIN.sh && bash WPSPIN.sh
 
 
 # Google Translate
@@ -21,3 +23,5 @@ It's time to breathe new life into the script ;-)
 Make changes to the code to work correctly on Kali Linux 2. Added automatic switching of the wireless adapter from the mode "Monitor" in mode "Managed" and start the network-manager by pressing EXIT, Restart and interrupt Reaver works on pressing CTRL + C.
 Now there is no need to manually change the adapter mode after the completion of the script.
 All other functionality remains unchanged.
+        
+        git clone https://github.com/getdrive/WPSPIN.sh && cd WPSPIN.sh && chmod +x WPSPIN.sh && bash WPSPIN.sh
