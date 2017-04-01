@@ -28,5 +28,5 @@ All other functionality remains unchanged.
 
 # Demo video
 
-[![WPSPIN Demo](https://youtu.be/Ps7ytL6IlzM)
+[![WPSPIN Demo](https://img.youtube.com/vi/nA_V_u3QZA4/0.jpg)](https://youtu.be/Ps7ytL6IlzM)
 
