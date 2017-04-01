@@ -27,4 +27,4 @@ All other functionality remains unchanged.
         git clone https://github.com/getdrive/WPSPIN.sh && cd WPSPIN.sh && chmod +x WPSPIN.sh && bash WPSPIN.sh
 
 
-https://www.youtube.com/embed/Ps7ytL6IlzM
+
