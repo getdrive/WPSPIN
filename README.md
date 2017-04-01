@@ -1,4 +1,9 @@
-# WPSPIN.sh
+## WPSPIN.sh
+
+# Demo video:
+
+[![WPSPIN Demo](https://i.ytimg.com/vi/Ps7ytL6IlzM/hqdefault.jpg)](https://youtu.be/Ps7ytL6IlzM)
+
 27 октября 2014 года, был опубликован скрипт, позволяющий проводить тестирование WIFI роутеров с включенным WPS. Скрипт включал в себя встроенный генератор и базу дефолтных WPS-Pin для некоторых моделей беспроводных роутеров.
 Скрипт прекрасно работал и показывал хорошие результаты до выхода релиза Kali Linux 2.
 С выходом нового релиза Kali, скрипт перестал работать, т.к. изменился формат вывода обновленного airmon-ng...
@@ -25,8 +30,3 @@ Now there is no need to manually change the adapter mode after the completion of
 All other functionality remains unchanged.
         
         git clone https://github.com/getdrive/WPSPIN.sh && cd WPSPIN.sh && chmod +x WPSPIN.sh && bash WPSPIN.sh
-
-# Demo video:
-
-[![WPSPIN Demo](https://i.ytimg.com/vi/Ps7ytL6IlzM/hqdefault.jpg)](https://youtu.be/Ps7ytL6IlzM)
-
