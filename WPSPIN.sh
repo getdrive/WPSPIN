@@ -1350,7 +1350,7 @@ for i in ${!BSSID[*]}; do
     else
       DISPLAY_LOCKED=$( echo -e "$rojo Yes$colorbae")  
     fi
-    if [ "$CHANNEL_CHECK" -lt 10 ]; then
+    if [[ "$CHANNEL_CHECK" -lt "10" ]]; then
       DISPLY_CHANNEL=$( echo " $CHANNEL_CHECK")
     else
       DISPLY_CHANNEL=$(echo ${CHANNEL[${i}]})
