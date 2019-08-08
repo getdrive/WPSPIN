@@ -1,4 +1,4 @@
-# WPSPIN.sh
+# WPSPIN
 
 ## Demo video:
 
