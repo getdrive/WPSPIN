@@ -14,7 +14,7 @@
 Теперь нет необходимости вручную менять режим адаптера после завершения работы скрипта. 
 Весь остальной функционал остался без изменений.
         
-        git clone https://github.com/getdrive/WPSPIN.sh && cd WPSPIN.sh && chmod +x WPSPIN.sh && bash WPSPIN.sh
+        git clone https://github.com/getdrive/WPSPIN && cd WPSPIN && chmod +x WPSPIN.sh && bash WPSPIN.sh
 
 
 ## Google Translate
@@ -29,4 +29,4 @@ Make changes to the code to work correctly on Kali Linux 2. Added automatic swit
 Now there is no need to manually change the adapter mode after the completion of the script.
 All other functionality remains unchanged.
         
-        git clone https://github.com/getdrive/WPSPIN.sh && cd WPSPIN.sh && chmod +x WPSPIN.sh && bash WPSPIN.sh
+        git clone https://github.com/getdrive/WPSPIN && cd WPSPIN && chmod +x WPSPIN.sh && bash WPSPIN.sh
