@@ -996,7 +996,7 @@ if [ "$BIG_MENUE_CHOICE" == 1 ]; then                                           
 echo ""
 echo "$WASHWAIT" #####################################REDIGER SELON LANGUE######### nessage to advice the user that the scan is launched and result will be displayed in a while
 echo ""    
-sudo xterm -l -lf scan.txt -e $WALSH_O_WASH -i $MON_ATTACK  -C 
+sudo xterm -l -lf scan.txt -e $WALSH_O_WASH -i $MON_ATTACK
 # sudo xterm -e   $WALSH_O_WASH -i $MON_ATTACK  -C  2>&1 | tee  scan.txt     # we take out eh two fist line of wash command and send the scan to temp ; do
 
 if [ "$WALSH_O_WASH" == "wash" ]; then 
